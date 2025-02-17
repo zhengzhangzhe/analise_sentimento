@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2025-02-12T15:14:53.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" etag="13K8Czoj3nf3UbgGx05X" version="22.1.21" type="google">
+  <diagram name="第 1 页" id="zjZk_Ou4bSDcw6l3qWZy">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ql0FD51hJn38Yfmo1u30-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ql0FD51hJn38Yfmo1u30-5" target="ql0FD51hJn38Yfmo1u30-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-5" value="finalização do atendimento fluxo antigo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ql0FD51hJn38Yfmo1u30-2" target="ql0FD51hJn38Yfmo1u30-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-9" value="finalização do atendimento fluxo novo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ql0FD51hJn38Yfmo1u30-9" target="ql0FD51hJn38Yfmo1u30-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-16" value="&lt;ol&gt;&lt;li&gt;nota de atendimento&lt;/li&gt;&lt;li&gt;tempo de atendimento&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="343" y="340" width="178" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-17" value="analise de comparação" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="275" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ql0FD51hJn38Yfmo1u30-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ql0FD51hJn38Yfmo1u30-7" target="ql0FD51hJn38Yfmo1u30-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
